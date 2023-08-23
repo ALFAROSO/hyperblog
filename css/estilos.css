@@ -7,7 +7,7 @@ body
     margin: 0;
     padding: 0;
 }
-/* 
+
 #cabecera
 {
     background: #33A;
@@ -23,7 +23,7 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-} */
+}
 
 #container
 {
@@ -38,7 +38,7 @@ body
 {
     font-size: 20px;
 }
-/* #post
+#post
 {
     padding: 1em;
-} */
+}
